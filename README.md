@@ -1,6 +1,6 @@
 # Quarantine-Chat
 
-# Quarantine-Chat is an application that aims to improve communication in school and work during Covid 19.
+Quarantine-Chat is an application that aims to improve communication in school and work during Covid 19.
 
 ### List of user in the chat
 ![List](https://github.com/simianfeng/New/blob/master/img/1.1-Main.png)
